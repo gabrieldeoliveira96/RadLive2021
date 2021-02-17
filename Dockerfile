@@ -1,4 +1,4 @@
-FROM radstudio/pa-radserver
+FROM radstudio/pa-radserver:10.3.3
 
 ARG password=embtdocker
 ARG ModuleName=MeuProjeto
